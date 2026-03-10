@@ -5,3 +5,4 @@ IMPORTANT NOTE :
 !!!Changed Temp sensor type bc i'm running a 100k B3950 IF YOU HAVE AN OTHER SENSOR CHECK ONLINE CHARTS FOR KLIPPER AND CHANGE IT.
 !!! Lowered the min_extrude temp  to 160 for printing low temperature pla rated for 175 degree . DEFAULT WAS 190
 I GOT comment on the file check it
+MESH BED LEVELING IS MANUAL
